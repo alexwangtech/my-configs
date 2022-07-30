@@ -1,3 +1,4 @@
+
 " Tab and space configurations.
 set tabstop=4
 set softtabstop=4
@@ -48,14 +49,3 @@ set signcolumn=yes
 
 " TODO - Let's add in vim-plug sometime.
 " TODO - telescope.nvim, is it compatible with vim?
-" TODO - gruvbox, is it compatible with vim?
-" TODO - neovim lsp, is it compatible with vim? Alternative is coc.
-" TODO - treesitter, is it compatible with vim? Alternative is coc.
-" TODO - undotree, is it compatible with vim? Alternative is coc.
-" TODO - fugitive (tpope), is it compatible with vim? Alternative is coc.
-
-" TODO - What is this? Is this for a transparent background?
-" :highlight Normal guibg=None
-
-" TODO - As we get into plugins, need to learn about remaps.
-" https://www.youtube.com/watch?v=DogKdiRx7ls
