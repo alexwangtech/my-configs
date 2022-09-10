@@ -59,3 +59,13 @@ set signcolumn=yes
 
 " TODO - As we get into plugins, need to learn about remaps.
 " https://www.youtube.com/watch?v=DogKdiRx7ls
+
+
+call plug#begin()
+
+"Plug 'prabirshrestha/vim-lsp'
+"Plug 'mattn/vim-lsp-settings'
+
+"Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
+call plug#end()
